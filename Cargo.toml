@@ -1,0 +1,10 @@
+[package]
+name = "rustchal"
+version = "0.1.0"
+authors = ["Blocs <jonathan@cryptoblocs.fr>"]
+edition = "2018"
+
+[dependencies]
+libp2p="*"
+tokio="*"
+futures="*"
